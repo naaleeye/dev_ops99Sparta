@@ -34,3 +34,10 @@ Task: Create a folder called test, create a file called text.txt inside the test
 
 find out all processes running 'top'
 how to 'kill' a process 
+
+""Automate everything we have done today""
+- provision the steps of updating, upgrading and nginx installation
+
+vagrant up again
+redo all the steps
+install nginx and load it in the broswer
